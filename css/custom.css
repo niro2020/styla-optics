@@ -1,0 +1,411 @@
+
+/* 
+    Created on : Jun 29, 2018, 2:42:18 PM
+    Author     : Indika Jayawardhana
+*/
+
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+.content-box
+{
+    padding-top: 75px;
+    padding-bottom: 35px;
+}
+.content-box h2
+{
+    width: 100%;
+    text-align: center;
+    color: #DF0000;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.line
+{
+    width: 70px;
+    border: 2px solid #DF0000;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.about-box p
+{
+    /*color: #7d7d7d;*/
+    font-size: 15px;
+}
+.about-box
+{
+    text-align: center;
+}
+.choose-box
+{
+    text-align: center;
+}
+.choose-box .fa
+{
+    font-size: 30px;
+    color: #FDBC49;
+}
+.choose-box h3
+{
+    font-size: 20px;
+    margin-top: 10px; 
+    color: #aa0201;
+}
+.choose-box p
+{
+    font-size: 13px;
+}
+.vehical-box h4
+{
+    text-align: center;
+    font-size: 20px;
+}
+.vehical-box .card-body p
+{
+    font-size: 13px;
+}
+.contact-btn
+{
+    cursor: pointer;
+    background: #FDBC49;
+    border: none;
+    color: #000000;
+    border-radius: 0px;
+}
+.contact-btn:hover
+{
+    cursor: pointer;
+    background: #f8ae2c;
+    border: none;
+    color: #000000;
+    border-radius: 0px;
+}
+.cb-right .form-group .form-control
+{
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid #343a40;
+}
+.menu-bar
+{
+    background: #DF0000 !important;
+    /*border-bottom: 1px solid #6b0809;*/
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color: #343a40 !important; 
+}
+.navbar-dark .navbar-nav .nav-link:hover
+{
+    color: #f8ae2c !important; 
+}
+.call-box
+{
+    background: #FDBC49;
+}
+.service-box
+{
+    text-align: center;
+    /*    background: #FDBC49;
+        color: #FFFFFF;*/
+}
+.service-box h4
+{
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+.service-main .card
+{
+    border: 1px solid #FDBC49;
+}
+.footer{
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.footer p
+{
+    font-size: 13px;
+}
+.footer a
+{
+    color: #FFFFFF;
+}
+.vehical-box
+{
+    border-bottom: 4px solid #FDBC49;
+    margin-bottom: 20px;
+}
+.cb-left .fa
+{
+    color: #aa0201;
+}
+.s-icon
+{
+    font-size: 20px !important;
+}
+.social_icon:hover
+{
+    color: #FDBC49;
+}
+.cb-left p
+{
+    font-size: 15px;
+}
+
+.booking-btn
+{
+    width: 100%;
+    cursor: pointer;
+    background: #FDBC49;
+    border: none;
+    color: #000000;
+    border-radius: 0px;
+}
+.booking-btn:hover
+{
+    width: 100%;
+    cursor: pointer;
+    background: #f8ae2c;
+    border: none;
+    color: #000000;
+    border-radius: 0px;
+}
+.book_main
+{
+    background: #380000;
+    padding-top: 55px;
+    padding-bottom: 35px;
+}
+.fm
+{
+    border-radius: 0px;
+    background: transparent;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+.fm::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #FFFFFF !important;
+}
+.fm::-moz-placeholder { /* Firefox 19+ */
+    color: #FFFFFF !important;;
+}
+.fm:-ms-input-placeholder { /* IE 10+ */
+    color: #FFFFFF !important;;
+}
+.fm:-moz-placeholder { /* Firefox 18- */
+    color: #FFFFFF !important;;
+}
+.best-box
+{
+    background: #F4F4F4;
+}
+.slider .carousel-caption
+{
+    top: 35vh;
+    display: block!important;
+}
+.slider .carousel-caption h3
+{
+    font-size: 60px;
+    color: #FDBC49;
+}
+.slider .carousel-caption p
+{
+    font-size: 30px;
+}
+.s-box
+{
+    margin-bottom: 20px;
+}
+#contact h2
+{
+    margin-top: 50px;
+}
+#contact
+{
+    margin-bottom: 50px;
+}
+.menu li a
+{
+    color: white !important;
+}
+.cz-box
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+#services
+{
+    background: #f4f4f4;
+}
+p
+{
+    text-align: justify;
+    font-size: 14px;
+}
+.about-txt-box
+{
+    text-align: left;
+}
+.about-img
+{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.about-txt
+{
+    text-align: right;
+    font-weight: bold;
+}
+#our-vision .card
+{
+    border-radius: 0px;
+}
+.cz-box p
+{
+    text-align: center;
+}
+.cx1
+{
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.cx2
+{
+    text-align: left;
+}
+.g-box .card
+{
+    border-radius: 0px;
+    /*border-bottom: 3px solid #FDBC49;*/
+}
+#gotop {
+    bottom: 10px;
+    background: #3a3939;
+    color: white;
+    cursor: pointer;
+    display: block;
+    font-size: 25px;
+    position: fixed;
+    right: 20px;
+    padding: 0px 10px 2px 10px;
+}
+.g-box .card-footer p
+{
+    text-align: center;
+}
+.wow:first-child {
+    visibility: hidden;
+}
+
+.g-box
+{
+    margin-bottom: 20px;
+}
+.g-box .card-footer
+{
+    background: white;
+}
+.g-box .card-footer a
+{
+    color: black;
+    font-weight: bold;
+}
+#contactForm .form-control
+{
+    font-size: 14px;
+}
+
+.btn-success
+{
+    background: #DF0000;
+    border: 1px solid #DF0000;
+    cursor: pointer;
+}
+.btn-success:hover
+{
+    background: #f01e1e;
+    border: 1px solid #f01e1e;
+    cursor: pointer;
+}
+.navbar-brand 
+{
+    color: white !important;
+}
+
+.contact-box-2 .fa
+{
+    font-size: 17px;
+}
+
+#services .card-body h3
+{
+    font-size: 25px;
+}
+p
+{
+    line-height: 1.8;
+}
+
+.logo-txt
+{
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 35px;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+}
+
+.form-error {
+    color: rgb(185, 74, 72);
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .call {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    .slider .carousel-caption{
+        top: 100px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+    .call {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .slider .carousel-caption{
+        top: 95px;
+    }
+    .slider .carousel-caption p {
+        font-size: 25px;
+    }
+    .slider .carousel-caption h3 {
+        font-size: 40px;
+    }
+}
+
